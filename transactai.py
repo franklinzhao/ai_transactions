@@ -11,12 +11,12 @@ from textwrap import dedent
 from crewai import Agent, Task, Crew, Process
 import random
 import os
-from customtools import decimalremove_sum_tool, duckduckgo_search, internet_search_tool
+from customtools import decimalremove_sum_tool, duckduckgo_search, internet_search_tool, add_tool,minus_tool,multiple_tool,division_tool, mathpower_tool,squareroot_tool
 from dotenv import load_dotenv
 import llms 
 load_dotenv()
 
-llm = llms.nvidia_hosted_llm
+llm = llms.nvidia_hosted_llm  #select preferred large language model
 
 # Get user inputs
 # project_name = input("Please provide a project name, no space and length is within 10 characters.\n")
@@ -54,7 +54,7 @@ tax_accountant = Agent(
                         produce the correct answer; you can use tools specified. """),
     allow_delegation=False,
     verbose=True,
-    tools=[decimalremove_sum_tool,internet_search_tool],
+    tools=[decimalremove_sum_tool,internet_search_tool, add_tool,minus_tool,multiple_tool,division_tool, mathpower_tool,squareroot_tool],
     # tools=[decimalremove_sum_tool(result_as_answer=True)],
     memory=True,
     # function_calling_llm=firework_hosted_llama,
@@ -75,7 +75,6 @@ tool_use_task = Task(
   			        """),
     expected_output="A result by using the tool.",
     agent=tax_accountant,
-    tools=[decimalremove_sum_tool,duckduckgo_search],
     human_input=True
 )
 
@@ -107,8 +106,3 @@ final code for the project:
 This is the model statistics: 
  {final_output.model_dump_json}
  """)
-
-#save it to local folder
-
-
-

@@ -31,8 +31,3 @@ groq_hosted_llm = ChatGroq(
 
 firework_hosted_llm = Fireworks(model="accounts/fireworks/models/llama-v3p1-405b-instruct", temperature=0)# localllm = Ollama(model="codestral:latest")#llama3.1:8b 
 local_llama8b_llm = Ollama(model="llama3.1:8b")#llama3.1:8b 
-
-# def llm_list():
-#     llms=[]
-#     llms.append(groq_hosted_llama,firework_hosted_llama,llama8b_local, nvidia_llm)
-#     return llms

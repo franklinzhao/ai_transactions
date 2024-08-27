@@ -16,6 +16,40 @@ def decimalremove_sum_tool(a:float,b:float) -> int:
     # Tool logic here
     return math.trunc(a)+math.trunc(b)
 
+@tool("add")
+def add_tool(a:float,b:float) -> float:
+    """Used for add two nubmers together, result is a sum of the two numbers ."""
+    return a+b
+
+@tool("minus")
+def minus_tool(a:float,b:float) -> float:
+    """Used for minus two nubmers, result is minus of the two numbers ."""
+    return a-b
+
+@tool("multiple")
+def multiple_tool(a:float,b:float) -> float:
+    """Used for multiple two nubmers, result is a multiple of the two numbers ."""
+    return a*b
+
+@tool("division")
+def division_tool(a:float,b:float) -> float:
+    """Used for divide one number to the other, result is a division of the two numbers ."""
+    if b != 0:
+        return a/b
+    else:
+        raise Exception("Error: divide 0 is not allowed!")
+
+
+@tool("math power tool")
+def mathpower_tool(a:float,b:float) -> float:
+    """Used for a to the power of b."""
+    return math.pow(a,b)
+
+@tool("square root")
+def squareroot_tool(a:float) -> float:
+    """Used for multiple the two numbers and then get square root of it."""
+    return math.sqrt(a)
+
 @tool("search internet")
 def duckduckgo_search(query:str):
     """
