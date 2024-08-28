@@ -11,11 +11,12 @@ nvidia_hosted_llm = ChatNVIDIA(
   # model="ai-llama-3_1-405b-instruct",
   # model="ai-llama-3_1-405b-instruct",
   # model="ai-phi-3_5-moe",
-  model="ai-gemma-2-27b-it",
+  model="ai21labs/jamba-1.5-large-instruct", #based on mamba, support 256k long context window
+  # model="ai-gemma-2-27b-it",
   api_key=os.environ["NVIDIA_API_KEY"],
   temperature=0.2,
   top_p=0.7,
-  max_tokens=4096,
+  max_tokens=40960,
 )
 
  # get a free key at https://fireworks.ai/api-keys
