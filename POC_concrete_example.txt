@@ -1,0 +1,13 @@
+1. 3 agents
+2. RAG local knowledge base
+3. Tools, function Tools, api Tools
+4. With memory configured.
+5. Flow of reasoning and summary for final output.
+
+BMO cases:  BMO transactions category summary, eg. how much mortgage payments in July and it's percentage in total income for a person? 
+            e.g.  what's the total consumption of eating out for a person? or what's the total phone bills for past year? what's the current
+            account balance of a person?
+            implements:  retrieve the persons past two years transactions and account balances, along with the questions pass to llm.
+            backitem code is for mapping to category of transactions.
+            
+# please generate what's the largest 3 category spends for this customer.

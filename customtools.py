@@ -4,7 +4,14 @@ import requests
 from bs4 import BeautifulSoup
 from crewai_tools import SerperDevTool, CSVSearchTool, JSONSearchTool,TXTSearchTool,PDFSearchTool
 import llms
+import json
+import pandas as pd
+from typing import Annotated, Dict
+from typing_extensions import TypedDict, List
 from dotenv import load_dotenv
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+
 load_dotenv()
 
 internet_search_tool = SerperDevTool() #"A tool that can be used to search the internet with a search_query."
@@ -75,7 +82,92 @@ def duckduckgo_search(query:str):
 
     return results
 
+@tool("Summarize transactions data")
+def data_summary_tool_crewai(data: Annotated[str,"a string representing JSON data"])->json:
+    """
+    Summarizes the transaction data. The input data is a JSON list in string format.
+    The output is a summary report in JSON format which been sorted by transactionAmount in descending order.
+    """
+     # Convert JSON data to Python object
+    json_data = str.replace(data,"'",'"')
+    data = json.loads(json_data)
 
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert 'transactionAmount' to float
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+
+    # Group by 'mechBackItemCode' and sum 'transactionAmount'
+    summary = df.groupby('mechBackItemCode')['transactionAmount'].sum().reset_index().sort_values(by='transactionAmount', ascending=False)
+    return summary.to_json(orient='records')
+
+
+def data_summary_tool(data: Annotated[str, "A JSON Formatted String enclosed in triple-quotation"])->json:
+    """
+    Summarizes the transaction data. The input data is a JSON list in string format.
+    The output is a summary report in JSON format which been sorted by transactionAmount in descending order.
+    """
+     # Convert JSON data to Python object
+    json_data = str.replace(data,"'",'"')
+    data = json.loads(json_data)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert 'transactionAmount' to float
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+
+    # Group by 'mechBackItemCode' and sum 'transactionAmount'
+    summary = df.groupby('mechBackItemCode')['transactionAmount'].sum().reset_index().sort_values(by='transactionAmount', ascending=False)
+    return summary.to_json(orient='records')
+
+def summary_tool_datapath(datapath: Annotated[str, "data file path in string"])->json:
+    """
+    Summarizes the transaction data. The input data file path point to where the data file located.
+    The output is a summary report in JSON format which been sorted by transactionAmount in descending order.
+    """
+    #load data from datapath
+    with open(datapath, 'r') as file:
+        data = json.loads(file.read()) 
+    # print(data)
+     # Convert JSON data to Python object
+    # json_data = str.replace(data,"'",'"')
+    # data = json.loads(data)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert 'transactionAmount' to float
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+
+    # Group by 'mechBackItemCode' and sum 'transactionAmount'
+    summary = df.groupby('mechBackItemCode')['transactionAmount'].sum().reset_index().sort_values(by='transactionAmount', ascending=False)
+    return summary.to_json(orient='records')
+
+@tool("Summarize transactions data")
+def summary_tool_datapath_crewai(datapath: Annotated[str, "data file path in string"])->json:
+    """
+    Summarizes the transaction data. The input data file path point to where the data file located.
+    The output is a summary report in JSON format which been sorted by transactionAmount in descending order.
+    """
+    #load data from datapath
+    with open(datapath, 'r') as file:
+        data = json.loads(file.read()) 
+    # print(data)
+     # Convert JSON data to Python object
+    # json_data = str.replace(data,"'",'"')
+    # data = json.loads(data)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert 'transactionAmount' to float
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+
+    # Group by 'mechBackItemCode' and sum 'transactionAmount'
+    summary = df.groupby('mechBackItemCode')['transactionAmount'].sum().reset_index().sort_values(by='transactionAmount', ascending=False)
+    return summary.to_json(orient='records')
 # csv_search_tool = CSVSearchTool(
 #     csv='data/csvfile.csv',
 #     config=dict(
@@ -92,3 +184,79 @@ def duckduckgo_search(query:str):
 #     )
 
 # print(internet_search_tool.run(query="what is microsoft market cap?"))
+# data="""[{'transactionAmount': '100.560001', 'mechBackItemCode': 'MORTGAGE', 'postedDate': '20230125'}, {'transactionAmount': '100.44', 'mechBackItemCode': 'MORTGAGE', 'postedDate': '20230125'}, {'transactionAmount': '100.01', 'mechBackItemCode': 'MORTGAGE', 'postedDate': '20230125'}, {'transactionAmount': '98.89', 'mechBackItemCode': 'ENTERTAINMENT', 'postedDate': '20231025'}, {'transactionAmount': '45.23', 'mechBackItemCode': 'RESTAURANT', 'postedDate': '20230925'}, {'transactionAmount': '68.78', 'mechBackItemCode': 'GROCERY', 'postedDate': '20230625'}, {'transactionAmount': '-208.22', 'mechBackItemCode': 'GROCERY', 'postedDate': '20240625'}]"""
+# print(data_summary_tool(data))
+
+# print(summary_tool_datapath("data/data_generated100k.json"))
+
+def plot_transaction_amount(datapath: Annotated[str, "data file path in string"])->str:
+    """
+    Plot a chart based on transactionAmount and posteddate. 
+    The input data file path point to where the data file located.
+    The output is plotted chart based on transactionAmount and posteddate.
+    """
+    with open(datapath, 'r') as file:
+        data = json.loads(file.read())
+
+    # Convert data to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert transactionAmount to float
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+
+    # Convert postedDate to datetime
+    df['postedDate'] = pd.to_datetime(df['postedDate'], format='%Y%m%d')
+
+    # Sort by postedDate
+    df = df.sort_values(by='postedDate')
+
+    # Calculate cumulative sum
+    df['cumulative_sum'] = df['transactionAmount'].cumsum()
+
+    # Plot cumulative sum by postedDate
+    plt.figure(figsize=(10, 6))
+    plt.plot(df['postedDate'], df['cumulative_sum'], marker='o')
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+    plt.gcf().autofmt_xdate()
+    plt.title('Cumulative Sum of Transaction Amount by Posted Date')
+    plt.xlabel('Posted Date')
+    plt.ylabel('Cumulative Sum of Transaction Amount')
+    plt.grid(True)
+    plt.savefig('chart/plotChart_CumulativeSumofTransactionAmount.png')
+    return f""" chart is plotted and saved in chart folder as: plotChart_CumulativeSumofTransactionAmount.png """
+
+def plot_total_transactionAmount_grouped_by_category(datapath: Annotated[str, "data file path in string"])->str:
+    """
+    Plot a bar chart that shows the total transaction amount grouped by category. 
+    Each category's total transaction value is displayed on the horizontal axis, 
+    helping visualize which categories had positive or negative balances.
+    """
+    with open(datapath, 'r') as file:
+        data = json.loads(file.read())
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
+
+    # Convert 'transactionAmount' to float and 'postedDate' to datetime
+    df['transactionAmount'] = df['transactionAmount'].astype(float)
+    df['postedDate'] = pd.to_datetime(df['postedDate'], format='%Y%m%d')
+
+    # Aggregate transaction amounts by 'mechBackItemCode' (category)
+    grouped_data = df.groupby('mechBackItemCode')['transactionAmount'].sum().reset_index()
+
+    # Plot
+    plt.figure(figsize=(10, 6))
+    plt.barh(grouped_data['mechBackItemCode'], grouped_data['transactionAmount'], color='skyblue')
+    plt.xlabel('Total Transaction Amount')
+    plt.ylabel('Transaction Category')
+    plt.title('Total Transaction Amount by Category')
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+    plt.savefig('chart/plotChart_total_transactionAmount_grouped_by_category.png')
+    return f""" chart is plotted and saved in chart folder as: plotChart_total_transactionAmount_grouped_by_category.png """
+          
+
+#Testing...........
+# plot_transaction_amount('data/data_generated100k.json')
+# plot_total_transactionAmount_grouped_by_category('data/data_generated100k.json')

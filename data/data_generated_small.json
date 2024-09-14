@@ -1,0 +1,18 @@
+[
+    {
+        "transactionAmount": 355.72,
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": 509.78,
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": 339.09,
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": 246.57,
+        "mechBackItemCode": "LOAN PAYBACK"
+    }
+]

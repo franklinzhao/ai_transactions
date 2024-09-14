@@ -1,0 +1,402 @@
+[
+    {
+        "transactionAmount": "-222.59",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "-772.92",
+        "mechBackItemCode": "BANK FEE"
+    },
+    {
+        "transactionAmount": "-924.88",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-849.41",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+129.12",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-471.53",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-568.33",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "+959.81",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "-538.02",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-18.54",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "-195.28",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-724.58",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+136.86",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+195.75",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "-549.26",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "+42.99",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-53.47",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "-446.37",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-162.95",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-377.45",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-949.65",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-166.34",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "+516.11",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+73.29",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "-399.28",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+601.21",
+        "mechBackItemCode": "BANK FEE"
+    },
+    {
+        "transactionAmount": "+433.09",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-882.81",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-529.39",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "-207.76",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "+642.52",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-307.69",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-408.29",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+374.68",
+        "mechBackItemCode": "BANK FEE"
+    },
+    {
+        "transactionAmount": "+35.58",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "+871.63",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+609.02",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+200.93",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "+765.91",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "+311.57",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-837.37",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-323.84",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-291.22",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "+951.1",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-789.43",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+234.44",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "-425.22",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+339.82",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "-371.79",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "-44.51",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-805.53",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+594.49",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-670.0",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "+870.23",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "+968.8",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "+295.05",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+636.14",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+566.37",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-968.32",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-960.52",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "-613.71",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+188.01",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "+749.97",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-931.16",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-484.2",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+342.71",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-934.9",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "+850.86",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-620.4",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "+110.86",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+822.93",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-995.89",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-198.51",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-669.32",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+13.69",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-382.19",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-517.89",
+        "mechBackItemCode": "BANK FEE"
+    },
+    {
+        "transactionAmount": "-311.41",
+        "mechBackItemCode": "FOREIGNEXCHANGE PAYMENT"
+    },
+    {
+        "transactionAmount": "-96.58",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "-931.89",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+781.55",
+        "mechBackItemCode": "GASOLINE"
+    },
+    {
+        "transactionAmount": "+475.35",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "-571.17",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-477.0",
+        "mechBackItemCode": "MORTGAGE PAYMENT"
+    },
+    {
+        "transactionAmount": "+178.14",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "-731.26",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "+34.44",
+        "mechBackItemCode": "RESTAURANT"
+    },
+    {
+        "transactionAmount": "-290.62",
+        "mechBackItemCode": "TAX PAYMENT"
+    },
+    {
+        "transactionAmount": "+183.44",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "+667.16",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "-371.14",
+        "mechBackItemCode": "LOAN PAYBACK"
+    },
+    {
+        "transactionAmount": "+994.18",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-397.13",
+        "mechBackItemCode": "GROCERY"
+    },
+    {
+        "transactionAmount": "+66.67",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+986.57",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    },
+    {
+        "transactionAmount": "+717.39",
+        "mechBackItemCode": "BANK FEE"
+    },
+    {
+        "transactionAmount": "-839.91",
+        "mechBackItemCode": "E-TRANSFER"
+    },
+    {
+        "transactionAmount": "+501.25",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "+772.23",
+        "mechBackItemCode": "INTEREST DEPOSIT"
+    },
+    {
+        "transactionAmount": "-719.78",
+        "mechBackItemCode": "CREDIT CARD PAYMENT"
+    }
+]

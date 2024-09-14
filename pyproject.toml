@@ -2,11 +2,13 @@
 name = "ddstransactai"
 version = "0.1.0"
 description = "DDSTRANSACTAI using crewAI"
-authors = ["Your Name <you@example.com>"]
+authors = ["guolin.zhao@aipoc.com"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<=3.13"
 crewai = { extras = ["tools"], version = "^0.41.1" }
+langchain_nvidia_ai_endpoints = "0.2.1"
+mem0 = "0.2.3"
 
 [tool.poetry.scripts]
 ddstransactai = "ddstransactai.main:run"

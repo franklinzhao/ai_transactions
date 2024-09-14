@@ -1,0 +1,5204 @@
+{
+  "result": [
+    {
+      "_id": "661e96758718a449b996cf0a",
+      "accountId": "00003728604",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 8.13,
+      "transactionCategory": "0002",
+      "timePost": "1829342",
+      "cardNumberOrig": "5524890000099242",
+      "transactionCode": "0404",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADVANCES        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9242",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf0b",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50,
+      "transactionCategory": "0001",
+      "timePost": "1816345",
+      "cardNumberOrig": "5165660000156548",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815399",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6548",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf0c",
+      "accountId": "00003728694",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 23,
+      "transactionCategory": "0019",
+      "timePost": "1829334",
+      "cardNumberOrig": "4138890000024621",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAIEMENT AUTOMATIQUE REÇU",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4621",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf0d",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 151.21,
+      "transactionCategory": "0001",
+      "timePost": "1816355",
+      "cardNumberOrig": "5165660000156548",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815399",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6548",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf0e",
+      "accountId": "00003728742",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 55,
+      "transactionCategory": "0019",
+      "timePost": "1829338",
+      "cardNumberOrig": "5191830000040921",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0921",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf0f",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 175.23,
+      "transactionCategory": "0001",
+      "timePost": "1816365",
+      "cardNumberOrig": "5165660000156548",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815415",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6548",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf10",
+      "accountId": "00003728758",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 8.35,
+      "transactionCategory": "0001",
+      "timePost": "1829349",
+      "cardNumberOrig": "5191330000084755",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4755",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf11",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 175.23,
+      "transactionCategory": "0001",
+      "timePost": "1816375",
+      "cardNumberOrig": "5165660000156548",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815415",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6548",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf12",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 823.69,
+      "transactionCategory": "0003",
+      "timePost": "1816311",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "0105",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75410102305558147427214",
+      "merchantCategoryCode": "6011",
+      "merchant": {
+        "name": "ATM                      ",
+        "city": "LAS VEGAS    ",
+        "state": "NV "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf13",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 175.23,
+      "transactionCategory": "0001",
+      "timePost": "1816385",
+      "cardNumberOrig": "5165660000149337",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815415",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9337",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf14",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 8.24,
+      "transactionCategory": "0010",
+      "timePost": "1816313",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "0401",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75410102305558147427214",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "CASH ADVANCE FEE         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf15",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 151.21,
+      "transactionCategory": "0001",
+      "timePost": "1816395",
+      "cardNumberOrig": "5165660000149337",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815399",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9337",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf16",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 819.97,
+      "transactionCategory": "0003",
+      "timePost": "1816321",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "0105",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75410102305636349465883",
+      "merchantCategoryCode": "6011",
+      "merchant": {
+        "name": "ATM                      ",
+        "city": "LAS VEGAS    ",
+        "state": "NV "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf17",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 175.23,
+      "transactionCategory": "0001",
+      "timePost": "1816405",
+      "cardNumberOrig": "5165660000149337",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815415",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9337",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf18",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 8.2,
+      "transactionCategory": "0010",
+      "timePost": "1816323",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "0401",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75410102305636349465883",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "CASH ADVANCE FEE         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf19",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 151.21,
+      "transactionCategory": "0001",
+      "timePost": "1816415",
+      "cardNumberOrig": "5165660000149337",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815399",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9337",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1a",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 280.85,
+      "transactionCategory": "0001",
+      "timePost": "1816331",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "3001",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "L",
+      "transactionReferenceNumber": "75410102305483213693138",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "TARGET                   ",
+        "city": "CHICAGO      ",
+        "state": "IL "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1b",
+      "accountId": "00003714328",
+      "transactionDate": "2022-10-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 175.23,
+      "transactionCategory": "0001",
+      "timePost": "1816425",
+      "cardNumberOrig": "5165660000149337",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "22222402290000243815415",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "MERCHANT_FOR_BMO         ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9337",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1c",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 421.27,
+      "transactionCategory": "0001",
+      "timePost": "1816341",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "3001",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "L",
+      "transactionReferenceNumber": "75410102305438859929576",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "TARGET                   ",
+        "city": "CHICAGO      ",
+        "state": "IL "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1d",
+      "accountId": "00003715399",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 29.57,
+      "transactionCategory": "0001",
+      "timePost": "1828489",
+      "cardNumberOrig": "5165660000117524",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7524",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1e",
+      "accountId": "00003728777",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 29,
+      "transactionCategory": "0008",
+      "timePost": "1829342",
+      "cardNumberOrig": "5191330000084656",
+      "transactionCode": "0408",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "OVERLIMIT FEE ON BAL $   ",
+        "city": "11333        ",
+        "state": ".27"
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4656",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf1f",
+      "accountId": "00003715790",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 9.12,
+      "transactionCategory": "0001",
+      "timePost": "1828495",
+      "cardNumberOrig": "5524890000071951",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1951",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf20",
+      "accountId": "00003728780",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 3.35,
+      "transactionCategory": "0001",
+      "timePost": "1829352",
+      "cardNumberOrig": "5191230000300039",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0039",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf21",
+      "accountId": "00003715824",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 51,
+      "transactionCategory": "0019",
+      "timePost": "1828487",
+      "cardNumberOrig": "5524890000105510",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5510",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf22",
+      "accountId": "00003728791",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 4.8,
+      "transactionCategory": "0001",
+      "timePost": "1829353",
+      "cardNumberOrig": "5191230000298969",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8969",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf23",
+      "accountId": "00003716196",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 34,
+      "transactionCategory": "0019",
+      "timePost": "1828495",
+      "cardNumberOrig": "5191230000249756",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9756",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf24",
+      "accountId": "00003728791",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.01,
+      "transactionCategory": "0002",
+      "timePost": "1829364",
+      "cardNumberOrig": "5191230000298969",
+      "transactionCode": "0404",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT AVANCES          ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8969",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf25",
+      "accountId": "00003716547",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 24.49,
+      "transactionCategory": "0001",
+      "timePost": "1828509",
+      "cardNumberOrig": "5524890000086231",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6231",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf26",
+      "accountId": "00003728802",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 120,
+      "transactionCategory": "0064",
+      "timePost": "1816311",
+      "cardNumberOrig": "5191230000300021",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP CREDIT    ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0021",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf27",
+      "accountId": "00003716741",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 44.08,
+      "transactionCategory": "0001",
+      "timePost": "1828514",
+      "cardNumberOrig": "5191230000253774",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3774",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf28",
+      "accountId": "00003728802",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 120,
+      "transactionCategory": "1138",
+      "timePost": "1816321",
+      "cardNumberOrig": "5191230000300021",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP DEBIT     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0021",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf29",
+      "accountId": "00003716766",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 59.66,
+      "transactionCategory": "0001",
+      "timePost": "1828515",
+      "cardNumberOrig": "5524890000078907",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8907",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2a",
+      "accountId": "00003728802",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.08,
+      "transactionCategory": "0081",
+      "timePost": "1829355",
+      "cardNumberOrig": "5191230000300021",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS - PAIEMENTFUTÉ     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0021",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2b",
+      "accountId": "00003716813",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 135.5,
+      "transactionCategory": "0001",
+      "timePost": "1828516",
+      "cardNumberOrig": "5191230000254335",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4335",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2c",
+      "accountId": "00003728802",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 6.39,
+      "transactionCategory": "0001",
+      "timePost": "1829366",
+      "cardNumberOrig": "5191230000300021",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0021",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2d",
+      "accountId": "00003716847",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 3348.53,
+      "transactionCategory": "0001",
+      "timePost": "1828518",
+      "cardNumberOrig": "5528260001107905",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASE        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7905",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2e",
+      "accountId": "00003728804",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 16.99,
+      "transactionCategory": "0001",
+      "timePost": "1829355",
+      "cardNumberOrig": "5191230000299033",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9033",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf2f",
+      "accountId": "00003716863",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 26,
+      "transactionCategory": "0019",
+      "timePost": "1828508",
+      "cardNumberOrig": "4139090000021607",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1607",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf30",
+      "accountId": "00003728807",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 200,
+      "transactionCategory": "0064",
+      "timePost": "1816311",
+      "cardNumberOrig": "5524890000101071",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP CREDIT    ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1071",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf31",
+      "accountId": "00003716891",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 40,
+      "transactionCategory": "0019",
+      "timePost": "1828509",
+      "cardNumberOrig": "5191230000305855",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5855",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf32",
+      "accountId": "00003728807",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 200,
+      "transactionCategory": "1138",
+      "timePost": "1816321",
+      "cardNumberOrig": "5524890000101071",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP DEBIT     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1071",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf33",
+      "accountId": "00003716982",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 499,
+      "transactionCategory": "0012",
+      "timePost": "1828510",
+      "cardNumberOrig": "4139090000004785",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ANNUAL CARD FEE          ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4785",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf34",
+      "accountId": "00003728881",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 47,
+      "transactionCategory": "0019",
+      "timePost": "1829353",
+      "cardNumberOrig": "5581620030387139",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7139",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf35",
+      "accountId": "00003716982",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 99,
+      "transactionCategory": "0012",
+      "timePost": "1828511",
+      "cardNumberOrig": "4139090000004785",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ADDITIONAL CARD(S) FEE   ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4785",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf36",
+      "accountId": "00003729820",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.28,
+      "transactionCategory": "0001",
+      "timePost": "1829378",
+      "cardNumberOrig": "5581620096680252",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0252",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf37",
+      "accountId": "00003716988",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 100,
+      "transactionCategory": "0001",
+      "timePost": "1816307",
+      "cardNumberOrig": "4138890000000076",
+      "transactionCode": "0101",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "L",
+      "transactionReferenceNumber": "74138892305305000000336",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "SECOND                   ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0076",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf38",
+      "accountId": "00003731168",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 115,
+      "transactionCategory": "0019",
+      "timePost": "1829396",
+      "cardNumberOrig": "5524890000103036",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3036",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf39",
+      "accountId": "00003717055",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 31.57,
+      "transactionCategory": "0001",
+      "timePost": "1828522",
+      "cardNumberOrig": "4139090000019882",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9882",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3a",
+      "accountId": "00000010571",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.56,
+      "transactionCategory": "0001",
+      "timePost": "1827266",
+      "cardNumberOrig": "5191230126104901",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4901",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3b",
+      "accountId": "00003717055",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.12,
+      "transactionCategory": "0002",
+      "timePost": "1828533",
+      "cardNumberOrig": "4139090000019882",
+      "transactionCode": "0404",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADVANCES        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9882",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3c",
+      "accountId": "00000017987",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 10832.66,
+      "transactionCategory": "0019",
+      "timePost": "1827269",
+      "cardNumberOrig": "5191330000067321",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAIEMENT AUTOMATIQUE REÇU",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7321",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3d",
+      "accountId": "00003717259",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 80,
+      "transactionCategory": "0019",
+      "timePost": "1828518",
+      "cardNumberOrig": "4138890000001074",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1074",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3e",
+      "accountId": "00000042307",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 18,
+      "transactionCategory": "0019",
+      "timePost": "1827057",
+      "cardNumberOrig": "5191230000001272",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1272",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf3f",
+      "accountId": "00003717260",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 141,
+      "transactionCategory": "0019",
+      "timePost": "1828519",
+      "cardNumberOrig": "4138890000001082",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1082",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf40",
+      "accountId": "00000042327",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 41,
+      "transactionCategory": "0019",
+      "timePost": "1827060",
+      "cardNumberOrig": "5524890000000208",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAIEMENT AUTOMATIQUE REÇU",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0208",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf41",
+      "accountId": "00003717277",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 524,
+      "transactionCategory": "0019",
+      "timePost": "1828521",
+      "cardNumberOrig": "4139090000021623",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAIEMENT AUTOMATIQUE REÇU",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1623",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf42",
+      "accountId": "00000042347",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 10,
+      "transactionCategory": "0019",
+      "timePost": "1827061",
+      "cardNumberOrig": "5524890000103523",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAIEMENT AUTOMATIQUE REÇU",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3523",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf43",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 250,
+      "transactionCategory": "0001",
+      "timePost": "1816307",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178038",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf44",
+      "accountId": "00000042402",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 13.83,
+      "transactionCategory": "0001",
+      "timePost": "1827077",
+      "cardNumberOrig": "5191330000082536",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2536",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf45",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 100,
+      "transactionCategory": "0001",
+      "timePost": "1816317",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178046",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf46",
+      "accountId": "00000042409",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.29,
+      "transactionCategory": "0001",
+      "timePost": "1827085",
+      "cardNumberOrig": "5524890000083352",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3352",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf47",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 250,
+      "transactionCategory": "0001",
+      "timePost": "1816327",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178053",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "PURCHASE ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf48",
+      "accountId": "00000042409",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 106.07,
+      "transactionCategory": "0001",
+      "timePost": "1827096",
+      "cardNumberOrig": "5524890000083352",
+      "transactionCode": "0449",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "SMALL BALANCE WRITE OFF  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3352",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf49",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 250,
+      "transactionCategory": "0001",
+      "timePost": "1816337",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178053",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4a",
+      "accountId": "00000042532",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50.19,
+      "transactionCategory": "0001",
+      "timePost": "1827096",
+      "cardNumberOrig": "5191230000164849",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4849",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4b",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 250,
+      "transactionCategory": "0001",
+      "timePost": "1816347",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178053",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4c",
+      "accountId": "00000042532",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 34.23,
+      "transactionCategory": "0009",
+      "timePost": "1827107",
+      "cardNumberOrig": "5191230000164849",
+      "transactionCode": "0415",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "CCBP ENHANCED            ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4849",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4d",
+      "accountId": "00003717291",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 250,
+      "transactionCategory": "0001",
+      "timePost": "1816357",
+      "cardNumberOrig": "4139090000021276",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178053",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1276",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4e",
+      "accountId": "00000042532",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.74,
+      "transactionCategory": "0009",
+      "timePost": "1827118",
+      "cardNumberOrig": "5191230000164849",
+      "transactionCode": "0896",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "CCBP ENHANCED TAX        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4849",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf4f",
+      "accountId": "00003717293",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 148,
+      "transactionCategory": "0019",
+      "timePost": "1828524",
+      "cardNumberOrig": "4138890000012303",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2303",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf50",
+      "accountId": "00000043160",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 26.47,
+      "transactionCategory": "0001",
+      "timePost": "1827115",
+      "cardNumberOrig": "5524890000073965",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3965",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf51",
+      "accountId": "00003717319",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 238,
+      "transactionCategory": "0019",
+      "timePost": "1828526",
+      "cardNumberOrig": "4138890000012634",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2634",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf52",
+      "accountId": "00000043160",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.47,
+      "transactionCategory": "0002",
+      "timePost": "1827126",
+      "cardNumberOrig": "5524890000073965",
+      "transactionCode": "0404",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADVANCES        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3965",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf53",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 160,
+      "transactionCategory": "0001",
+      "timePost": "1816307",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178202",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf54",
+      "accountId": "00000046570",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.5,
+      "transactionCategory": "0081",
+      "timePost": "1827144",
+      "cardNumberOrig": "5524890000002766",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2766",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf55",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 10,
+      "transactionCategory": "0001",
+      "timePost": "1816317",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178202",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "PURCHASE ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf56",
+      "accountId": "00000046570",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50.37,
+      "transactionCategory": "0001",
+      "timePost": "1827166",
+      "cardNumberOrig": "5524890000002766",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2766",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf57",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816327",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178186",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf58",
+      "accountId": "00000048234",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 27.31,
+      "transactionCategory": "0001",
+      "timePost": "1827162",
+      "cardNumberOrig": "5191230000015686",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5686",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf59",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816337",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178194",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5a",
+      "accountId": "00000048502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 15.7,
+      "transactionCategory": "0001",
+      "timePost": "1827172",
+      "cardNumberOrig": "5191830000006054",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6054",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5b",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816347",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178202",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5c",
+      "accountId": "00000048525",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 71.99,
+      "transactionCategory": "0001",
+      "timePost": "1827174",
+      "cardNumberOrig": "5191230000016411",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6411",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5d",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 80,
+      "transactionCategory": "0001",
+      "timePost": "1816357",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178178",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5e",
+      "accountId": "00000048558",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1191.02,
+      "transactionCategory": "0001",
+      "timePost": "1827177",
+      "cardNumberOrig": "5524890000027912",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7912",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf5f",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 174.96,
+      "transactionCategory": "0001",
+      "timePost": "1816367",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf60",
+      "accountId": "00000048753",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.88,
+      "transactionCategory": "0081",
+      "timePost": "1827181",
+      "cardNumberOrig": "5524890000095190",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS - PAIEMENTFUTÉ     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5190",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf61",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 1.21,
+      "transactionCategory": "0001",
+      "timePost": "1816368",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0479",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf62",
+      "accountId": "00000048753",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.88,
+      "transactionCategory": "0081",
+      "timePost": "1827192",
+      "cardNumberOrig": "5524890000095190",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS - PAIEMENTFUTÉ     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5190",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf63",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 160.7,
+      "transactionCategory": "0001",
+      "timePost": "1816377",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf64",
+      "accountId": "00000048753",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 167.68,
+      "transactionCategory": "0001",
+      "timePost": "1827214",
+      "cardNumberOrig": "5524890000095190",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5190",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf65",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 1.11,
+      "transactionCategory": "0001",
+      "timePost": "1816378",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0479",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf66",
+      "accountId": "00000048753",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 110,
+      "transactionCategory": "0009",
+      "timePost": "1827225",
+      "cardNumberOrig": "5524890000095190",
+      "transactionCode": "0415",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ASSURANCE SOLDE BMO      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5190",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf67",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 160.7,
+      "transactionCategory": "0001",
+      "timePost": "1816387",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf68",
+      "accountId": "00000048774",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 448.88,
+      "transactionCategory": "0001",
+      "timePost": "1827184",
+      "cardNumberOrig": "5191330000007962",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7962",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf69",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 1.11,
+      "transactionCategory": "0001",
+      "timePost": "1816388",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0479",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6a",
+      "accountId": "00000048803",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 18.21,
+      "transactionCategory": "0001",
+      "timePost": "1827186",
+      "cardNumberOrig": "5524890000101527",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1527",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6b",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 174.96,
+      "transactionCategory": "0001",
+      "timePost": "1816397",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6c",
+      "accountId": "00000048821",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 12,
+      "transactionCategory": "0019",
+      "timePost": "1827177",
+      "cardNumberOrig": "5191830000006997",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6997",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6d",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 1.21,
+      "transactionCategory": "0001",
+      "timePost": "1816398",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0479",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6e",
+      "accountId": "00003731253",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 37.8,
+      "transactionCategory": "0001",
+      "timePost": "1829411",
+      "cardNumberOrig": "5191330000084920",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4920",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf6f",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 10,
+      "transactionCategory": "0001",
+      "timePost": "1816407",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178202",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "PURCHASE ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf70",
+      "accountId": "00003731261",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 4.45,
+      "transactionCategory": "0001",
+      "timePost": "1829411",
+      "cardNumberOrig": "5191230000303033",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3033",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf71",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816417",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178186",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf72",
+      "accountId": "00003731348",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.8,
+      "transactionCategory": "0081",
+      "timePost": "1829415",
+      "cardNumberOrig": "4138890000025891",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS - PAIEMENTFUTÉ     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5891",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf73",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816427",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178194",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf74",
+      "accountId": "00003731348",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.03,
+      "transactionCategory": "0001",
+      "timePost": "1829437",
+      "cardNumberOrig": "4138890000025891",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5891",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf75",
+      "accountId": "00003717323",
+      "transactionDate": "2022-10-03T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 180,
+      "transactionCategory": "0001",
+      "timePost": "1816437",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74300012276000210178202",
+      "merchantCategoryCode": "5967",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf76",
+      "accountId": "00003731446",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 10,
+      "transactionCategory": "0019",
+      "timePost": "1829416",
+      "cardNumberOrig": "4138899999990049",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0049",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf77",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 160.7,
+      "transactionCategory": "0001",
+      "timePost": "1816447",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf78",
+      "accountId": "00003731488",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 15.22,
+      "transactionCategory": "0001",
+      "timePost": "1829430",
+      "cardNumberOrig": "5191230000305509",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "5509",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf79",
+      "accountId": "00003717323",
+      "transactionDate": "2022-08-17T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 174.96,
+      "transactionCategory": "0001",
+      "timePost": "1816457",
+      "cardNumberOrig": "4139090000021292",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24515502229000200094876",
+      "merchantCategoryCode": "5999",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1292",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7a",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829432",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7b",
+      "accountId": "00003717428",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 3569.66,
+      "transactionCategory": "0001",
+      "timePost": "1828548",
+      "cardNumberOrig": "4139090000021417",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1417",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7c",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829443",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7d",
+      "accountId": "00003717444",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 499,
+      "transactionCategory": "0012",
+      "timePost": "1828541",
+      "cardNumberOrig": "4139090000012036",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ANNUAL CARD FEE          ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2036",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7e",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.98,
+      "transactionCategory": "0081",
+      "timePost": "1829454",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf7f",
+      "accountId": "00003717444",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 99,
+      "transactionCategory": "0012",
+      "timePost": "1828542",
+      "cardNumberOrig": "4139090000012036",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ADDITIONAL CARD(S) FEE   ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2036",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf80",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829465",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf81",
+      "accountId": "00003717444",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 4706.09,
+      "transactionCategory": "0001",
+      "timePost": "1828553",
+      "cardNumberOrig": "4139090000012036",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2036",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf82",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 77.77,
+      "transactionCategory": "0001",
+      "timePost": "1829474",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf83",
+      "accountId": "00003717528",
+      "transactionDate": "2022-09-13T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 70.1,
+      "transactionCategory": "0001",
+      "timePost": "1816309",
+      "cardNumberOrig": "4139090000022183",
+      "transactionCode": "0354",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24610432256594496967274",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2183",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf84",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829476",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf85",
+      "accountId": "00003717528",
+      "transactionDate": "2022-09-13T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 1.78,
+      "transactionCategory": "0001",
+      "timePost": "1816310",
+      "cardNumberOrig": "4139090000022183",
+      "transactionCode": "0479",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADJUSTMENT      ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2183",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf86",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829487",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf87",
+      "accountId": "00003717528",
+      "transactionDate": "2022-09-13T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 70.1,
+      "transactionCategory": "0001",
+      "timePost": "1816319",
+      "cardNumberOrig": "4139090000021821",
+      "transactionCode": "0130",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "24610432256594496967274",
+      "merchantCategoryCode": "5411",
+      "merchant": {
+        "name": "CREDIT ADJUSTMENT        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1821",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf88",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829498",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf89",
+      "accountId": "00003718067",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 150,
+      "transactionCategory": "0012",
+      "timePost": "1828555",
+      "cardNumberOrig": "5524890000082131",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ANNUAL CARD FEE          ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2131",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8a",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829509",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8b",
+      "accountId": "00003718067",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50,
+      "transactionCategory": "0012",
+      "timePost": "1828556",
+      "cardNumberOrig": "5524890000082131",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "ADDITIONAL CARD(S) FEE   ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2131",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8c",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.55,
+      "transactionCategory": "0081",
+      "timePost": "1829520",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8d",
+      "accountId": "00003718217",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 5112,
+      "transactionCategory": "0019",
+      "timePost": "1828557",
+      "cardNumberOrig": "4139090000020906",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0906",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8e",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.54,
+      "transactionCategory": "0081",
+      "timePost": "1829531",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf8f",
+      "accountId": "00003718339",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 14.19,
+      "transactionCategory": "0001",
+      "timePost": "1828570",
+      "cardNumberOrig": "5524890000077305",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7305",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf90",
+      "accountId": "00003731502",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.5,
+      "transactionCategory": "0081",
+      "timePost": "1829542",
+      "cardNumberOrig": "5191230000306085",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6085",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf91",
+      "accountId": "00003718382",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 43.4,
+      "transactionCategory": "0001",
+      "timePost": "1828573",
+      "cardNumberOrig": "5524890000078154",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8154",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf92",
+      "accountId": "00003731548",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 200,
+      "transactionCategory": "0064",
+      "timePost": "1816311",
+      "cardNumberOrig": "4138890000027004",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74138892305305111111121",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP CREDIT    ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7004",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf93",
+      "accountId": "00003718411",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 15.65,
+      "transactionCategory": "0001",
+      "timePost": "1828575",
+      "cardNumberOrig": "4138890000021791",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1791",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf94",
+      "accountId": "00003731548",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 300,
+      "transactionCategory": "0064",
+      "timePost": "1816321",
+      "cardNumberOrig": "4138890000027004",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74138892305305111111139",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP CREDIT    ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7004",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf95",
+      "accountId": "00003718419",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 43,
+      "transactionCategory": "0019",
+      "timePost": "1828565",
+      "cardNumberOrig": "4138890000012527",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2527",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf96",
+      "accountId": "00003731548",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 200,
+      "transactionCategory": "1138",
+      "timePost": "1816331",
+      "cardNumberOrig": "4138890000027004",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74138892305305111111121",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP DEBIT     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7004",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf97",
+      "accountId": "00003718439",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 25,
+      "transactionCategory": "0019",
+      "timePost": "1828567",
+      "cardNumberOrig": "5524890000078311",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8311",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf98",
+      "accountId": "00003731548",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 300,
+      "transactionCategory": "1138",
+      "timePost": "1816341",
+      "cardNumberOrig": "4138890000027004",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "74138892305305111111139",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART SETUP DEBIT     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7004",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf99",
+      "accountId": "00003718516",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 11.89,
+      "transactionCategory": "0001",
+      "timePost": "1828581",
+      "cardNumberOrig": "5191230000261470",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1470",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9a",
+      "accountId": "00003731548",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 440,
+      "transactionCategory": "0019",
+      "timePost": "1829429",
+      "cardNumberOrig": "4138890000027004",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7004",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9b",
+      "accountId": "00003718649",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 71,
+      "transactionCategory": "0019",
+      "timePost": "1828576",
+      "cardNumberOrig": "5524890000080028",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0028",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9c",
+      "accountId": "00003731565",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2629,
+      "transactionCategory": "0081",
+      "timePost": "1829441",
+      "cardNumberOrig": "5524890000106088",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6088",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9d",
+      "accountId": "00003718710",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 126.77,
+      "transactionCategory": "0001",
+      "timePost": "1828589",
+      "cardNumberOrig": "5191230000266057",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6057",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9e",
+      "accountId": "00003731567",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 5123.33,
+      "transactionCategory": "0081",
+      "timePost": "1829441",
+      "cardNumberOrig": "5524890000106153",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6153",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cf9f",
+      "accountId": "00003718742",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 53.61,
+      "transactionCategory": "0001",
+      "timePost": "1828590",
+      "cardNumberOrig": "4139090000021839",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1839",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa0",
+      "accountId": "00003731568",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 9747,
+      "transactionCategory": "0081",
+      "timePost": "1829442",
+      "cardNumberOrig": "5524890000106161",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6161",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa1",
+      "accountId": "00003719459",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 40.31,
+      "transactionCategory": "0001",
+      "timePost": "1828609",
+      "cardNumberOrig": "5165660000130204",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0204",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa2",
+      "accountId": "00000048855",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 4.6,
+      "transactionCategory": "0001",
+      "timePost": "1827189",
+      "cardNumberOrig": "5191830000007128",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7128",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa3",
+      "accountId": "00003719802",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.86,
+      "transactionCategory": "0001",
+      "timePost": "1829018",
+      "cardNumberOrig": "5165660000136516",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6516",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa4",
+      "accountId": "00000048855",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.63,
+      "transactionCategory": "0002",
+      "timePost": "1827200",
+      "cardNumberOrig": "5191830000007128",
+      "transactionCode": "0404",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST ADVANCES        ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7128",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa5",
+      "accountId": "00003719887",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.57,
+      "transactionCategory": "0001",
+      "timePost": "1829022",
+      "cardNumberOrig": "5165660000140724",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0724",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa6",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 110,
+      "transactionCategory": "0064",
+      "timePost": "1816287",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa7",
+      "accountId": "00003719945",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.07,
+      "transactionCategory": "0001",
+      "timePost": "1829024",
+      "cardNumberOrig": "5165660000142720",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2720",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa8",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 100,
+      "transactionCategory": "0064",
+      "timePost": "1816297",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111132",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfa9",
+      "accountId": "00003720329",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 11,
+      "transactionCategory": "0001",
+      "timePost": "1829030",
+      "cardNumberOrig": "5581620019273615",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3615",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfaa",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 110,
+      "transactionCategory": "0064",
+      "timePost": "1816307",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0756",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111140",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfab",
+      "accountId": "00003720827",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.8,
+      "transactionCategory": "0001",
+      "timePost": "1829034",
+      "cardNumberOrig": "5165660000148693",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8693",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfac",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 110,
+      "transactionCategory": "1138",
+      "timePost": "1816317",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111124",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfad",
+      "accountId": "00003721029",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 39.37,
+      "transactionCategory": "0001",
+      "timePost": "1829037",
+      "cardNumberOrig": "5524890000107128",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7128",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfae",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 100,
+      "transactionCategory": "1138",
+      "timePost": "1816327",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111132",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfaf",
+      "accountId": "00003721100",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 20.27,
+      "transactionCategory": "0001",
+      "timePost": "1829040",
+      "cardNumberOrig": "5524890000083329",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3329",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb0",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 110,
+      "transactionCategory": "1138",
+      "timePost": "1816337",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0231",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "75191202305305111111140",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "TEST                     ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb1",
+      "accountId": "00003721229",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 505.07,
+      "transactionCategory": "0019",
+      "timePost": "1829036",
+      "cardNumberOrig": "5524890000102657",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2657",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb2",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.9,
+      "transactionCategory": "0081",
+      "timePost": "1827198",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb3",
+      "accountId": "00003721310",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 3669.82,
+      "transactionCategory": "0001",
+      "timePost": "1829050",
+      "cardNumberOrig": "5191330000081785",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1785",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb4",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.61,
+      "transactionCategory": "0081",
+      "timePost": "1827209",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb5",
+      "accountId": "00003721314",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.2,
+      "transactionCategory": "0001",
+      "timePost": "1829051",
+      "cardNumberOrig": "5191330000064633",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4633",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb6",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.08,
+      "transactionCategory": "0081",
+      "timePost": "1827220",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb7",
+      "accountId": "00003721331",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 149,
+      "transactionCategory": "0012",
+      "timePost": "1829042",
+      "cardNumberOrig": "5581620070456430",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS ANNUELS            ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6430",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb8",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.73,
+      "transactionCategory": "0001",
+      "timePost": "1827230",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfb9",
+      "accountId": "00003721331",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50,
+      "transactionCategory": "0012",
+      "timePost": "1829043",
+      "cardNumberOrig": "5581620070456430",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS ANNUELS            ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6430",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfba",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.99,
+      "transactionCategory": "0081",
+      "timePost": "1827231",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfbb",
+      "accountId": "00003721331",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 50,
+      "transactionCategory": "0012",
+      "timePost": "1829044",
+      "cardNumberOrig": "5581620070456430",
+      "transactionCode": "0405",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "FRAIS ANNUELS            ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6430",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfbc",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.81,
+      "transactionCategory": "0081",
+      "timePost": "1827242",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfbd",
+      "accountId": "00003721331",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 80.83,
+      "transactionCategory": "0001",
+      "timePost": "1829055",
+      "cardNumberOrig": "5581620070456430",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTÉRÊT ACHATS           ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "6430",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfbe",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.99,
+      "transactionCategory": "0081",
+      "timePost": "1827253",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfbf",
+      "accountId": "00003721340",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 29,
+      "transactionCategory": "0019",
+      "timePost": "1829043",
+      "cardNumberOrig": "5165660000124843",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "4843",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc0",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.99,
+      "transactionCategory": "0081",
+      "timePost": "1827264",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc1",
+      "accountId": "00003721525",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 28,
+      "transactionCategory": "0019",
+      "timePost": "1829049",
+      "cardNumberOrig": "4139090000010634",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0634",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc2",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.99,
+      "transactionCategory": "0081",
+      "timePost": "1827275",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc3",
+      "accountId": "00003721568",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 18,
+      "transactionCategory": "0019",
+      "timePost": "1829051",
+      "cardNumberOrig": "5524890000090068",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "0068",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc4",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.9,
+      "transactionCategory": "0081",
+      "timePost": "1827286",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc5",
+      "accountId": "00003721595",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 84.19,
+      "transactionCategory": "0001",
+      "timePost": "1829062",
+      "cardNumberOrig": "5165660000127440",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "7440",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc6",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.99,
+      "transactionCategory": "0081",
+      "timePost": "1827297",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc7",
+      "accountId": "00003721659",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "C",
+      "transactionAmount": 10,
+      "transactionCategory": "0019",
+      "timePost": "1829055",
+      "cardNumberOrig": "5191230000298464",
+      "transactionCode": "0440",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "AUTOMATIC PYMT RECEIVED  ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8464",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc8",
+      "accountId": "00000048880",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 1.89,
+      "transactionCategory": "0081",
+      "timePost": "1827308",
+      "cardNumberOrig": "5191330000008150",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8150",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfc9",
+      "accountId": "00003721697",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 524.53,
+      "transactionCategory": "0001",
+      "timePost": "1829069",
+      "cardNumberOrig": "4138890000012279",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "2279",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfca",
+      "accountId": "00000048894",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.07,
+      "transactionCategory": "0081",
+      "timePost": "1827200",
+      "cardNumberOrig": "5191330000063551",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3551",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfcb",
+      "accountId": "00003721701",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 22.07,
+      "transactionCategory": "0001",
+      "timePost": "1829070",
+      "cardNumberOrig": "4139090000011178",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1178",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfcc",
+      "accountId": "00000048894",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 2.43,
+      "transactionCategory": "0081",
+      "timePost": "1827211",
+      "cardNumberOrig": "5191330000063551",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3551",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfcd",
+      "accountId": "00003721721",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 28.07,
+      "transactionCategory": "0001",
+      "timePost": "1829072",
+      "cardNumberOrig": "5165660000128695",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "8695",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfce",
+      "accountId": "00000048894",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 0.9,
+      "transactionCategory": "0081",
+      "timePost": "1827222",
+      "cardNumberOrig": "5191330000063551",
+      "transactionCode": "8040",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "PAYSMART FEE             ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3551",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfcf",
+      "accountId": "00003721736",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 11.55,
+      "transactionCategory": "0001",
+      "timePost": "1829073",
+      "cardNumberOrig": "5191230000269358",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "9358",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfd0",
+      "accountId": "00000048894",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 105.22,
+      "transactionCategory": "0001",
+      "timePost": "1827233",
+      "cardNumberOrig": "5191330000063551",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "3551",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    },
+    {
+      "_id": "661e96758718a449b996cfd1",
+      "accountId": "00003721738",
+      "transactionDate": "2022-11-01T00:00:00.000Z",
+      "debitCreditIndicator": "D",
+      "transactionAmount": 26.81,
+      "transactionCategory": "0001",
+      "timePost": "1829074",
+      "cardNumberOrig": "4139090000011228",
+      "transactionCode": "0403",
+      "postedDate": "2022-11-01T00:00:00.000Z",
+      "eligibleForInstallments": "",
+      "transactionReferenceNumber": "",
+      "merchantCategoryCode": "0000",
+      "merchant": {
+        "name": "INTEREST PURCHASES       ",
+        "city": "             ",
+        "state": "   "
+      },
+      "meta": {
+        "createdAt": "2024-04-16T15:17:07.000Z",
+        "batchId": "IDP.THC.DLY_TSYS7719PSTDTRANSACTION.DELTA.20221101.txt",
+        "cardNumberOrigLastFourDigits": "1228",
+        "expireAt": "2024-11-02T00:00:00.000Z"
+      }
+    }
+  ]
+}
